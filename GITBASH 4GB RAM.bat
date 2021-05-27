@@ -26,4 +26,5 @@ git remote add origin https://github.com/healer-op/p.git
 git remote set-url origin https://github.com/healer-op/p.git
 git push -f origin master
 [42mFILES UPLOADED[0m
+timeout 30000
 
